@@ -1,0 +1,5 @@
+export { Setting } from 'components/icons/general/Setting'
+export { Info } from 'components/icons/general/Info'
+export { SettingEx } from 'components/icons/general/SettingEx'
+export { Address } from 'components/icons/general/Address'
+export { Crosshair } from 'components/icons/general/Crosshair'

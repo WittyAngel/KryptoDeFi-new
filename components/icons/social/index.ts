@@ -1,0 +1,5 @@
+export { Telegram } from 'components/icons/social/Telegram'
+export { Twitter } from 'components/icons/social/Twitter'
+export { LinkedIn } from 'components/icons/social/LinkedIn'
+export { Facebook } from 'components/icons/social/Facebook'
+export { Globe } from 'components/icons/social/Globe'

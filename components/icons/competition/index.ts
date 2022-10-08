@@ -1,0 +1,6 @@
+export { RuleNumberHighlight } from 'components/icons/competition/RuleNumberHighlight'
+export { PlaneTeam } from 'components/icons/competition/PlaneTeam'
+export { BootsTeam } from 'components/icons/competition/BootsTeam'
+export { HeliTeam } from 'components/icons/competition/HeliTeam'
+export { TankTeam } from 'components/icons/competition/TankTeam'
+export { ApoTeam } from 'components/icons/competition/ApoTeam'
